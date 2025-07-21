@@ -28,5 +28,5 @@ Listed below are the resources for each episode of Context Window:
 
 | **Episode**                                      | **Watch Here** | **Learn More** |
 |--------------------------------------------------|----------------|--------------------|
-| Control Your AI Agents, AI Projects, Better RAG  |                |[Resources](./episodes/ep-1-control-ai-agents.md)                    |
+| Control Your AI Agents, AI Projects, Better RAG  |     [Episode 1](https://www.youtube.com/watch?v=IMQbZTmAIZo)           |[Resources](./episodes/ep-1-control-ai-agents.md)                    |
 |                                                  |                |                    |
