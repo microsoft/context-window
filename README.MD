@@ -12,7 +12,7 @@ You can join the Azure AI Foundry Community of over 30,000 developers through th
 
 ### [Discord](https://aka.ms/context-window/discord)
 
-[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/yyrcfXvdyj)
+[![Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/yyrcfXvdyj)
 
 Chat with other developers and AI Engineers, attend live community sessions hosted by Azure product teams and get support from product experts.
 
