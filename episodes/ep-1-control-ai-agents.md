@@ -1,6 +1,6 @@
 # Episode 1: Control Your AI Agents, AI Projects Explained, Better RAG
 
-![Episode 1](../images/episode-1.png)(https://www.youtube.com/watch?v=IMQbZTmAIZo)
+[![Episode 1](../images/episode-1.png)](https://www.youtube.com/watch?v=IMQbZTmAIZo)
 
 
 ## Resources
