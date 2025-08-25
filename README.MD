@@ -26,7 +26,7 @@ Get your questions answered about Azure AI Foundry, share your feedback, and dis
 
 Listed below are the resources for each episode of Context Window:
 
-| **Episode**                                      | **Watch Here** | **Learn More** |
-|--------------------------------------------------|----------------|--------------------|
-| Control Your AI Agents, AI Projects, Better RAG  |     [Episode 1](https://www.youtube.com/watch?v=IMQbZTmAIZo)           |[Resources](./episodes/ep-1-control-ai-agents.md)                    |
-|                                                  |                |                    |
+| **Episode**                                         | **Watch Here**                                           | **Learn More**                                    |
+|-----------------------------------------------------|----------------------------------------------------------|---------------------------------------------------|
+| Control Your AI Agents, AI Projects, Better RAG     | [Episode 1](https://www.youtube.com/watch?v=IMQbZTmAIZo) | [Resources](./episodes/ep-1-control-ai-agents.md) |
+| Answering 3 Developer Questions to Save on AI Costs | [Episode 2](https://www.youtube.com/watch?v=CdrXTcpTAhI) | [Resources](./episodes/ep-2-save-on-ai-costs.md) |
