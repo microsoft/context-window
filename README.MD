@@ -30,3 +30,4 @@ Listed below are the resources for each episode of Context Window:
 |-----------------------------------------------------|----------------------------------------------------------|---------------------------------------------------|
 | Control Your AI Agents, AI Projects, Better RAG     | [Episode 1](https://www.youtube.com/watch?v=IMQbZTmAIZo) | [Resources](./episodes/ep-1-control-ai-agents.md) |
 | Answering 3 Developer Questions to Save on AI Costs | [Episode 2](https://www.youtube.com/watch?v=CdrXTcpTAhI) | [Resources](./episodes/ep-2-save-on-ai-costs.md) |
+| Upleveling Your AI Agents  | [Episode 3](https://youtu.be/Izrmr4VM4a8?si=HbTShCvkD72G6GL6) | [Resources](./episodes/ep-3-uplevel-ai-agents.md) |
